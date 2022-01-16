@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sobre mim
+
+- Atualmente trabalhando em um projeto com Java e Spring boot mais detalhadamente um Cadastrador de Eventos!
+- Atualmente aprendendo <i class="devicon-javascript-plain colored"></i>
