@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### Sobre mim
 
 - Atualmente trabalhando em um projeto com Java e Spring boot mais detalhadamente um Cadastrador de Eventos!
-- Atualmente aprendendo <i class="devicon-javascript-plain colored"></i>
+- Atualmente aprendendo <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
