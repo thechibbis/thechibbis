@@ -13,4 +13,7 @@
   <img align="center" alt="chibbis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="chibbis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/932009251612786858/932130960420528168/46288058.png">
 </div> 
+  
+  ##
+  
 </div>
