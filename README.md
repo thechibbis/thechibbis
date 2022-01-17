@@ -23,4 +23,4 @@
 
 ### Atual projetos
 
-- Cadastrador de Eventos com java e spring boot (em breve aqui no github)
+- Cadastrador de Eventos com java e spring boot (já disponivel mas não funcional! Ler o readme.md do projeto para poder entender mais!)
