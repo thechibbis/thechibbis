@@ -13,7 +13,7 @@
   <img align="center" alt="chibbis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="chibbis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="chibbis-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="chibbis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/932009251612786858/932130960420528168/46288058.png">
+  <img align="right" alt="chibbis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/974795846031900742/976351184803741736/ducky.jpg">
 </div> 
   
   ##
