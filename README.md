@@ -13,7 +13,7 @@
   <img align="center" alt="chibbis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="chibbis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="chibbis-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="chibbis-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmangaterial.tumblr.com%2Fpost%2F626390863493349376%2Fminato-naruto-icons-pls&psig=AOvVaw2LzwImc-cLLSQ2AOzReyAw&ust=1652937163549000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOi7hZTN6PcCFQAAAAAdAAAAABAD">
+  <img align="right" alt="chibbis-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/974795846031900742/976351839937241088/tumblr_80d275190ced3db40f6f451e5e27fecd_ac50ae63_1280.jpg">
 </div> 
   
   ##
