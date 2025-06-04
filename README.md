@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
 </div>
 
+<!-- 
 <h2 align="left">Currently learning</h2>
 
 <div align="left">
@@ -39,6 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="Phoenix logo" />
 </div>
+-->
 
 ###
 
