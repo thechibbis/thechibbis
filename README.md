@@ -1,21 +1,5 @@
 <h1 align="left">Hey 👋 I'm Guilherme!</h1>
 
-###
-
-<h2 align="left">About me</h2>
-
-<p> 🫡 I'm a passionate <strong>back-end developer</strong> always seeking new challenges and learning opportunities! </p>
-
-###
-
-<ul align="left">
-  <li>
-    🎯 <strong>Goals:</strong> Land a back-end developer role and continuously improve my coding skills
-  </li>
-</ul>
-
-###
-
 <h2 align="left">Main stack</h2>
 
 <div align="left">
